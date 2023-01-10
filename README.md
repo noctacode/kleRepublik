@@ -11,6 +11,12 @@ Detect liquidated offers
 Track open offers
 
 # Todo
-Post market offers
+Add market offer posting function
 
 Refactor offer-comparing functions to decrease time complexity
+
+Get rid of globals
+
+# Use
+Modify config.ini with your data
+Run functions.py
