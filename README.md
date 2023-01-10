@@ -19,4 +19,12 @@ Get rid of globals
 
 # Use
 Modify config.ini with your data
+
 Run functions.py
+
+# Other
+I experimented with gui, but figured I'm adding and modifying so fast it's a waste of time.
+
+Therefore gui.py is deprecated, but kept in repository for historical reasons.
+
+Note to self: Tkinter is ugly.
